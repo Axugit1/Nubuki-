@@ -1,1 +1,1 @@
-web: python3.11 -m AAB
+web: run.sh
